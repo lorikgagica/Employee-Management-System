@@ -31,13 +31,13 @@ A simple Python console app to manage employees, managers, and developers. All d
 
 --- Employee Management System ---
 
-Add Employee
+1. Add Employee
 
-Display All Employees
+2. Display All Employees
 
-Find Employee by ID
+3. Find Employee by ID
 
-Exit
+4. Exit
 Enter your choice(1-4): 1
 
 --- Choose Employee Type ---
